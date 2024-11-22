@@ -1,4 +1,5 @@
 <?php
+$title = 'Accueil';
 ob_start();
 require_once(__DIR__.'../../component/header.php');?>
 
