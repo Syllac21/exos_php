@@ -32,4 +32,8 @@ class Pages{
     {
         require_once(dirname(__DIR__,2).'/src/templates/superglobales.php');
     }
+    public function login()
+    {
+        require_once(dirname(__DIR__,2).'/src/templates/login.php');
+    }
 }

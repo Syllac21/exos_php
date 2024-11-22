@@ -1,4 +1,4 @@
-<header class="text-gray-600 body-font bg-slate-700">
+<header class="text-gray-600 body-font bg-slate-700 mb-3">
   <div class="container mx-auto flex flex-wrap p-5 flex-col md:flex-row items-center">
     <a href="index.php" class="title-font font-medium items-center text-gray-900 mb-4 md:mb-0">
       <span class="ml-3 text-2xl text-gray-200 font-bold">Mes exercices</span>
@@ -11,6 +11,7 @@
       <a href="index.php?theme=tableaux" class="mr-5 text-gray-200 hover:text-gray-500">Les Tableaux</a>
       <a href="index.php?theme=fonctions" class="mr-5 text-gray-200 hover:text-gray-500">Les Fonctions</a>
       <a href="index.php?theme=superglobales" class="mr-5 text-gray-200 hover:text-gray-500">Les superglobales</a>
+      <a href="/src/component/logout.php" class="mr-5 text-gray-200 hover:text-gray-500">Déconnexion</a>
     </nav>
       
   </div>
